@@ -1,0 +1,27 @@
+{
+  "name": "Toastmaster Timer Simple",
+  "version": "0.0.0",
+  "authors": [
+    "Payne@MattPayne.org"
+  ],
+  "description": "Very simple speech timer",
+  "main": "index.html",
+  "keywords": [
+    "HTML5",
+    "jQuery",
+    "flipclock"
+  ],
+  "license": "GLP",
+  "homepage": "http://MattPayne.org/tt",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flipclock": "git@github.com:objectivehtml/FlipClock.git"
+  }
+}
